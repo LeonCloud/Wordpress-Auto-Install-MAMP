@@ -1,8 +1,8 @@
 # Wordpress-Auto-Install-MAMP
 
-Automatic installation of lastes wordpress version on MAMP (MacOS)
+Automatic installation of latest wordpress version on MAMP (Mac OS)
 
-## Code Example
+## Run
 ```
 sh wp_autoinstall_mamp.sh
 ```
